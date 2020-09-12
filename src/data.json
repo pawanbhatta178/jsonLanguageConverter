@@ -1,0 +1,8 @@
+{
+  "name": "Please enter your name",
+  "list": ["translate", "object", "made", "easy"],
+  "nested": {
+    "hello": "hello",
+    "world": "world"
+  }
+}
